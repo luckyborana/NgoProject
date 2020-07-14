@@ -85,45 +85,42 @@
                 <div class="inner">
                     <article class="projects-detail">
                         <header class="entry-header">
-                            <h2 class="entry-title">CHILD PROTECTION</h2>
+                            <h1 class="entry-title">Train women to Earn &amp; Live – End Poverty.</h1>
                         </header>
-                        <div class="entry-content" style="margin-top:30px;">
-                            <p style="text-align: justify;"><noscript><img class="wp-image-2111 aligncenter" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_582,h_377/http://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg" alt="" width="582" height="377" srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1980/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg 1980w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-300x194.jpg 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-768x496.jpg 768w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-1024x662.jpg 1024w" sizes="(max-width: 582px) 100vw, 582px" /></noscript><img class="wp-image-2111 aligncenter lazyloaded" src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_582,h_377/http://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg" data-src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_582,h_377/http://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg" alt="" width="582" height="377" data-srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1980/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg 1980w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-300x194.jpg 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-768x496.jpg 768w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-1024x662.jpg 1024w" data-sizes="(max-width: 582px) 100vw, 582px" sizes="(max-width: 582px) 100vw, 582px" srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1980/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg 1980w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-300x194.jpg 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-768x496.jpg 768w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-1024x662.jpg 1024w"></p>
-                            <p style="text-align: justify;">&nbsp;</p>
-                            <p style="text-align: justify;">The Child Protection Programme is a core sector of our work. We utilize a child rights programming framework and keep in mind the cross-cutting themes of child participation, non-discrimination and best interests of children.</p>
-                            <p style="text-align: justify;"><strong>Our child protection work focuses on three key “evidence” groups:</strong></p>
-                            <p>Children affected by disasters/emergencies and conflict, including Disaster Risk Reduction.</p>
-                            <p>Exploitation &amp; child trafficking.</p>
-                            <p>Children in the worst forms of labour and children with inadequate parental care including alternatives to institutional care.</p>
-                            <p style="text-align: justify;">Understanding good and best practices in care and protection is a major focus of our programme work. This requires quality monitoring and evaluation (research &amp; studies) in order to identify good practices in documentation and sharing of this evidence.</p>
-                            <p style="text-align: justify;"><strong>Some of the most important activities of our Child Protection programme include:</strong></p>
-                            <p>Improving the understanding of the situation of vulnerable children in need of care and protection.</p>
-                            <p>Building children’s resilience and supporting their participation in their own protection, including child-led organisations and child-to-child support.</p>
-                            <p>Promoting diversion from inappropriate or punitive responses and encouraging the reintegration of children who have been stigmatised because of their coping strategies in the absence of effective protection mechanisms.</p>
-                            <p>Demonstrating the benefits of preventative approaches and early intervention over interventions at a later stage.</p>
-                            <p>Supporting the development of community-based care and protection systems.</p>
-                            <p>Support to the co-ordination and integration of services and support to vulnerable children.</p>
-                            <p>Encouraging moves away from services directed towards particular problems towards services addressed to supporting the functioning and coping strategies of children and families.</p>
-                            <p>Building the care and protection of children into broader social welfare, poverty reduction and other national development strategies.</p>
-                            <p>Building the capacity of duty bearers to deliver effective care and protection.</p>
-                            <p>Advocating for legal and policy reform in line with the principles and standards of the Child Rights For Change and other relevant international and regional instruments.</p>
-                            <!-- <p><a href="http://www.iwcwtministry.org/make-a-donation/" hidefocus="true" style="outline: none;"><noscript><img class="alignnone size-full wp-image-1837" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_301,h_57/http://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png" alt="" width="301" height="57" srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_301/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png 301w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate-300x57.png 300w" sizes="(max-width: 301px) 100vw, 301px" /></noscript><img class="alignnone size-full wp-image-1837 lazyloaded" src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301,h_57/http://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png" data-src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301,h_57/http://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png" alt="" width="301" height="57" data-srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png 301w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate-300x57.png 300w" data-sizes="(max-width: 301px) 100vw, 301px" sizes="(max-width: 301px) 100vw, 301px" srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png 301w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate-300x57.png 300w"></a></p> -->
-                            <button type="button" class="btn btn-warning btn-lg"><i>Donate here</i></button>
-                            <!-- <button type="button" class="btn btn-warning btn-lg btn-block"><i>Donate Here</i></button> -->
-                           
-                            <!-- <div class="divider project-details"></div> -->
+                        <div class="entry-content">
+                            <p style="text-align: justify;">This project will empower disadvantaged women and girls through imparting skill training, computer training’s, educational scholarships and Self help, which will help to generate an income for their families and give a better chance of survival.</p>
+                            <h4 style="text-align: justify;">Challenge</h4>
+                            <p style="text-align: justify;">Investment in women and girls, is a proven path to reduce poverty. They are disadvantaged when it comes to employment, education, and work skills. They are also abused sexually, physically, mentally and psychologically. Indian Women And Child Welfare Trust equipped to empower deprived, disadvantaged and under privileged women and girls through sewing, embroidery and computer training to give them a better tomorrow, by promoting equality in the society. Self help group is to meet emergency needs on the basis of mutual help</p>
+                            <h4 style="text-align: justify;">Solution</h4>
+                            <p style="text-align: justify;">Training in sewing, embroidery, computers and educational scholarship to women and girls will enable them to avail jobs opportunities in industries or set their own micro business. Also S.H.G. savings is to meet emergency needs on mutual help.</p>
+                            <h4 style="text-align: justify;">Long-Term Impact</h4>
+                            <p style="text-align: justify;">Indian Women And Child Welfare Trust&nbsp;aims to improve economic status of women and their families through business skills and education. The secret of training is to empower, restore and regenerate women and improve their status. Last two years, we provided training to 500+ women</p>
+                            <p>
+                                <!--Donate Button--><br>
+                                <button type="button" class="btn btn-warning btn-lg"><i>Donate here</i></button>
+                                <p style="text-align: justify;"><em><strong>Tax Benefits 80G. All local donations to Indian Women And Child Welfare Trust are tax exempted under section 80G of the Income Tax Act. Our receipt carries this message and the receipt will suffice for claiming tax exemption. The tax rebate is 50% of your contribution to Indian Women And Child Welfare Trust.</strong></em></p>
+
+                                <div class="divider project-details"></div>
                         </div>
                     </article>
-                    <br>
 
-                    <!-- <section class="projects-details-navigation clearfix">
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <br>
+
+    <!-- <section class="projects-details-navigation clearfix">
                         <span class="prev_pag"><a href="https://www.iwcwtministry.org/all-project-list/self-help-group/" rel="prev" hidefocus="true" style="outline: none;"><i class="icon-chevron-left"></i><span>Previous Project</span></a></span>
                         <span class="next_pag"><a href="https://www.iwcwtministry.org/all-project-list/train-women-to-earn-live-end-poverty/" rel="next" hidefocus="true" style="outline: none;"><span>Next Project</span><i class="icon-chevron-right"></i></a></span>
                     </section> -->
 
-                </div>
-            </div>
-            <!-- <div class="col-md-4 col-sm-12 sidebar widget-area">
+    </div>
+    </div>
+    <!-- <div class="col-md-4 col-sm-12 sidebar widget-area">
                 <div class="inner">
                     <div class="widget widget-text ">
                         <h3 class="widget-title">Facebook Updates</h3>
@@ -139,7 +136,7 @@
                     </div>
                 </div>
             </div> -->
-        </div>
+    </div>
     </div>
 
 

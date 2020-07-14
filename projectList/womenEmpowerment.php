@@ -85,45 +85,48 @@
                 <div class="inner">
                     <article class="projects-detail">
                         <header class="entry-header">
-                            <h2 class="entry-title">CHILD PROTECTION</h2>
+                            <h1 class="entry-title">Women Empowerment</h1>
                         </header>
-                        <div class="entry-content" style="margin-top:30px;">
-                            <p style="text-align: justify;"><noscript><img class="wp-image-2111 aligncenter" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_582,h_377/http://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg" alt="" width="582" height="377" srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1980/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg 1980w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-300x194.jpg 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-768x496.jpg 768w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-1024x662.jpg 1024w" sizes="(max-width: 582px) 100vw, 582px" /></noscript><img class="wp-image-2111 aligncenter lazyloaded" src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_582,h_377/http://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg" data-src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_582,h_377/http://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg" alt="" width="582" height="377" data-srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1980/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg 1980w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-300x194.jpg 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-768x496.jpg 768w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-1024x662.jpg 1024w" data-sizes="(max-width: 582px) 100vw, 582px" sizes="(max-width: 582px) 100vw, 582px" srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1980/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg 1980w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-300x194.jpg 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-768x496.jpg 768w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-1024x662.jpg 1024w"></p>
-                            <p style="text-align: justify;">&nbsp;</p>
-                            <p style="text-align: justify;">The Child Protection Programme is a core sector of our work. We utilize a child rights programming framework and keep in mind the cross-cutting themes of child participation, non-discrimination and best interests of children.</p>
-                            <p style="text-align: justify;"><strong>Our child protection work focuses on three key “evidence” groups:</strong></p>
-                            <p>Children affected by disasters/emergencies and conflict, including Disaster Risk Reduction.</p>
-                            <p>Exploitation &amp; child trafficking.</p>
-                            <p>Children in the worst forms of labour and children with inadequate parental care including alternatives to institutional care.</p>
-                            <p style="text-align: justify;">Understanding good and best practices in care and protection is a major focus of our programme work. This requires quality monitoring and evaluation (research &amp; studies) in order to identify good practices in documentation and sharing of this evidence.</p>
-                            <p style="text-align: justify;"><strong>Some of the most important activities of our Child Protection programme include:</strong></p>
-                            <p>Improving the understanding of the situation of vulnerable children in need of care and protection.</p>
-                            <p>Building children’s resilience and supporting their participation in their own protection, including child-led organisations and child-to-child support.</p>
-                            <p>Promoting diversion from inappropriate or punitive responses and encouraging the reintegration of children who have been stigmatised because of their coping strategies in the absence of effective protection mechanisms.</p>
-                            <p>Demonstrating the benefits of preventative approaches and early intervention over interventions at a later stage.</p>
-                            <p>Supporting the development of community-based care and protection systems.</p>
-                            <p>Support to the co-ordination and integration of services and support to vulnerable children.</p>
-                            <p>Encouraging moves away from services directed towards particular problems towards services addressed to supporting the functioning and coping strategies of children and families.</p>
-                            <p>Building the care and protection of children into broader social welfare, poverty reduction and other national development strategies.</p>
-                            <p>Building the capacity of duty bearers to deliver effective care and protection.</p>
-                            <p>Advocating for legal and policy reform in line with the principles and standards of the Child Rights For Change and other relevant international and regional instruments.</p>
-                            <!-- <p><a href="http://www.iwcwtministry.org/make-a-donation/" hidefocus="true" style="outline: none;"><noscript><img class="alignnone size-full wp-image-1837" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_301,h_57/http://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png" alt="" width="301" height="57" srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_301/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png 301w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate-300x57.png 300w" sizes="(max-width: 301px) 100vw, 301px" /></noscript><img class="alignnone size-full wp-image-1837 lazyloaded" src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301,h_57/http://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png" data-src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301,h_57/http://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png" alt="" width="301" height="57" data-srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png 301w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate-300x57.png 300w" data-sizes="(max-width: 301px) 100vw, 301px" sizes="(max-width: 301px) 100vw, 301px" srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png 301w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate-300x57.png 300w"></a></p> -->
+                        <div class="entry-content">
+                            <p>Delivering multiple roles effortlessly every single day, women are undoubtedly the backbone of any society. Doting daughters, caring mothers, competent colleagues and a wide range of many other roles are played by women around us flawlessly and with grace.</p>
+                            <p>However, they’ve also been an ignored fraction of the society in many parts of the world. This, in turn, has caused women at large to bear the brunt of inequality, oppression, financial dependability and other social evils. For centuries now, women have been living under bondage that restricts them from achieving professional as well as personal heights.</p>
+                            <h3><strong>Empowering Women Socially and Economically</strong></h3>
+                            <p>To restore their rightful and dignified status, The Indian Women and Child Welfare Trust has initiated women empowerment programs that provide a solid foundation to nurture the inner strength, creativity and self-esteem of women from all walks of life. With this base well established, women are now able to go out into the world, prepared to handle any challenge with skills, confidence and grace. They come to the forefront, where they become agents of peace and positive social change for themselves, their families, other women and their society.</p>
+                            <h3><strong>5 Women Empowerment programs taken up by The Indian Women and Child Welfare Trust:</strong></h3>
+                            <p>&nbsp;– Economic independence</p>
+                            <p>&nbsp;– Girl child education</p>
+                            <p>&nbsp;– HIV/AIDS</p>
+                            <p>&nbsp;– Leadership</p>
+                            <p>&nbsp;– Social empowerment</p>
+                            <p>&nbsp;</p>
+                            <h3><strong>Women Empowerment through education:</strong></h3>
+                            <p>Education is a potent tool to progress in life. And what better way to uplift and empower women than by educating them? Through its various initiatives, The Indian Women and Child Welfare Trust has empowered young girls and women alike with quality education, even in the remotest corners of the rural India. Know more about this new dawn of knowledge.</p>
+                            <h3><strong>Women Empowerment Programs in India</strong></h3>
+                            <p>Through the Indian Women and Child Welfare Trust’s women-empowerment programs, women across India and many other countries have been able to gain financial freedom and stand up against social injustice. They’ve also become agents of change by educating and empowering other women about finding their voice and standing up for themselves.</p>
+                            <p>The Indian Women and Child Welfare Trust’s empowerment of women programs are a catalyst that have unsettled centuries of restrictions and given women the much deserved platform to set themselves free and rise as equals.</p>
                             <button type="button" class="btn btn-warning btn-lg"><i>Donate here</i></button>
-                            <!-- <button type="button" class="btn btn-warning btn-lg btn-block"><i>Donate Here</i></button> -->
-                           
-                            <!-- <div class="divider project-details"></div> -->
+
+                            <div class="divider project-details"></div>
                         </div>
                     </article>
-                    <br>
 
-                    <!-- <section class="projects-details-navigation clearfix">
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <br>
+
+    <!-- <section class="projects-details-navigation clearfix">
                         <span class="prev_pag"><a href="https://www.iwcwtministry.org/all-project-list/self-help-group/" rel="prev" hidefocus="true" style="outline: none;"><i class="icon-chevron-left"></i><span>Previous Project</span></a></span>
                         <span class="next_pag"><a href="https://www.iwcwtministry.org/all-project-list/train-women-to-earn-live-end-poverty/" rel="next" hidefocus="true" style="outline: none;"><span>Next Project</span><i class="icon-chevron-right"></i></a></span>
                     </section> -->
 
-                </div>
-            </div>
-            <!-- <div class="col-md-4 col-sm-12 sidebar widget-area">
+    </div>
+    </div>
+    <!-- <div class="col-md-4 col-sm-12 sidebar widget-area">
                 <div class="inner">
                     <div class="widget widget-text ">
                         <h3 class="widget-title">Facebook Updates</h3>
@@ -139,7 +142,7 @@
                     </div>
                 </div>
             </div> -->
-        </div>
+    </div>
     </div>
 
 

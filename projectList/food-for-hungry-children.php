@@ -85,45 +85,46 @@
                 <div class="inner">
                     <article class="projects-detail">
                         <header class="entry-header">
-                            <h2 class="entry-title">CHILD PROTECTION</h2>
+                            <h1 class="entry-title">Food for Hungry Children</h1>
                         </header>
-                        <div class="entry-content" style="margin-top:30px;">
-                            <p style="text-align: justify;"><noscript><img class="wp-image-2111 aligncenter" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_582,h_377/http://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg" alt="" width="582" height="377" srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1980/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg 1980w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-300x194.jpg 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-768x496.jpg 768w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-1024x662.jpg 1024w" sizes="(max-width: 582px) 100vw, 582px" /></noscript><img class="wp-image-2111 aligncenter lazyloaded" src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_582,h_377/http://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg" data-src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_582,h_377/http://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg" alt="" width="582" height="377" data-srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1980/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg 1980w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-300x194.jpg 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-768x496.jpg 768w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-1024x662.jpg 1024w" data-sizes="(max-width: 582px) 100vw, 582px" sizes="(max-width: 582px) 100vw, 582px" srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1980/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education.jpg 1980w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-300x194.jpg 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-768x496.jpg 768w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://www.iwcwtministry.org/wp-content/uploads/2016/04/Support-Education-1024x662.jpg 1024w"></p>
-                            <p style="text-align: justify;">&nbsp;</p>
-                            <p style="text-align: justify;">The Child Protection Programme is a core sector of our work. We utilize a child rights programming framework and keep in mind the cross-cutting themes of child participation, non-discrimination and best interests of children.</p>
-                            <p style="text-align: justify;"><strong>Our child protection work focuses on three key “evidence” groups:</strong></p>
-                            <p>Children affected by disasters/emergencies and conflict, including Disaster Risk Reduction.</p>
-                            <p>Exploitation &amp; child trafficking.</p>
-                            <p>Children in the worst forms of labour and children with inadequate parental care including alternatives to institutional care.</p>
-                            <p style="text-align: justify;">Understanding good and best practices in care and protection is a major focus of our programme work. This requires quality monitoring and evaluation (research &amp; studies) in order to identify good practices in documentation and sharing of this evidence.</p>
-                            <p style="text-align: justify;"><strong>Some of the most important activities of our Child Protection programme include:</strong></p>
-                            <p>Improving the understanding of the situation of vulnerable children in need of care and protection.</p>
-                            <p>Building children’s resilience and supporting their participation in their own protection, including child-led organisations and child-to-child support.</p>
-                            <p>Promoting diversion from inappropriate or punitive responses and encouraging the reintegration of children who have been stigmatised because of their coping strategies in the absence of effective protection mechanisms.</p>
-                            <p>Demonstrating the benefits of preventative approaches and early intervention over interventions at a later stage.</p>
-                            <p>Supporting the development of community-based care and protection systems.</p>
-                            <p>Support to the co-ordination and integration of services and support to vulnerable children.</p>
-                            <p>Encouraging moves away from services directed towards particular problems towards services addressed to supporting the functioning and coping strategies of children and families.</p>
-                            <p>Building the care and protection of children into broader social welfare, poverty reduction and other national development strategies.</p>
-                            <p>Building the capacity of duty bearers to deliver effective care and protection.</p>
-                            <p>Advocating for legal and policy reform in line with the principles and standards of the Child Rights For Change and other relevant international and regional instruments.</p>
-                            <!-- <p><a href="http://www.iwcwtministry.org/make-a-donation/" hidefocus="true" style="outline: none;"><noscript><img class="alignnone size-full wp-image-1837" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_301,h_57/http://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png" alt="" width="301" height="57" srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_301/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png 301w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate-300x57.png 300w" sizes="(max-width: 301px) 100vw, 301px" /></noscript><img class="alignnone size-full wp-image-1837 lazyloaded" src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301,h_57/http://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png" data-src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301,h_57/http://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png" alt="" width="301" height="57" data-srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png 301w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate-300x57.png 300w" data-sizes="(max-width: 301px) 100vw, 301px" sizes="(max-width: 301px) 100vw, 301px" srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png 301w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate-300x57.png 300w"></a></p> -->
-                            <button type="button" class="btn btn-warning btn-lg"><i>Donate here</i></button>
-                            <!-- <button type="button" class="btn btn-warning btn-lg btn-block"><i>Donate Here</i></button> -->
-                           
-                            <!-- <div class="divider project-details"></div> -->
+                        <div class="entry-content">
+                            <p style="text-align: justify;">Hunger is the number one health risk in the world. One in eight people go to bed hungry each night. And lack of food leads to dehydration, malnourishment, weakened immune systems and impaired brain function, among other things. Close to 3 billion people live on less than $2 per day. And that’s $2 a day for all of life’s expenses — food, transportation, housing, emergencies, etc. Many of us spend twice that amount on our morning cup of coffee.</p>
+                            <p style="text-align: justify;">It’s difficult to imagine having a satisfying meal for $2, let alone only having $2 to try and meet all of the needs that come up during a day. However, our $2 Dinner Challenge will help with this a little bit. It’ll give you a small taste of what life is like for children and families living in extreme poverty.</p>
+                            <p style="text-align: justify;"><noscript><img class="wp-image-2110 aligncenter" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_428,h_321/http://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1.jpg" alt="" width="428" height="321" srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1752/https://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1.jpg 1752w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1-300x225.jpg 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1-768x576.jpg 768w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1-1024x768.jpg 1024w" sizes="(max-width: 428px) 100vw, 428px" /></noscript><img class=" wp-image-2110 aligncenter lazyloading" src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_428,h_321/http://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1.jpg" data-src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_428,h_321/http://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1.jpg" alt="" width="428" height="321" data-srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1752/https://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1.jpg 1752w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1-300x225.jpg 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1-768x576.jpg 768w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1-1024x768.jpg 1024w" data-sizes="(max-width: 428px) 100vw, 428px" sizes="(max-width: 428px) 100vw, 428px" srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1752/https://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1.jpg 1752w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1-300x225.jpg 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1-768x576.jpg 768w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://www.iwcwtministry.org/wp-content/uploads/2016/01/food-1-1024x768.jpg 1024w"></p>
+                            <h3 style="text-align: justify;">&nbsp;</h3>
+                            <h3 style="text-align: justify;"><strong>The Challenge</strong></h3>
+                            <p style="text-align: justify;">Take $2 in cash from your purse or wallet, and put the rest of your money aside, including your checkbook and your credit or debit cards.</p>
+                            <p style="text-align: justify;">As a family, go to your local grocery store. Walk around the store and make a list of what food you can get for $2. Then use your $2 to buy food to feed everyone dinner; just one meal.</p>
+                            <p style="text-align: justify;"><strong>As you eat dinner together, discuss the questions below:</strong></p>
+                            <p style="padding-left: 30px; text-align: justify;">Before you went to the store, what was your initial impression of the challenge? Did you think it would be easy or hard to come up with a meal for $2?</p>
+                            <p style="padding-left: 30px; text-align: justify;">What was the food shopping experience like? What did you think, or how did you feel, as you were looking for affordable items to buy?</p>
+                            <p style="padding-left: 30px; text-align: justify;">Did you have any concerns about the meal you’d be having (e.g., nutritionally, amount, taste, etc.)?<br>
+                                How does the food you bought stack up nutritionally with a typical meal you share together? How do you think having this $2 meal every day would affect you physically and emotionally?</p>
+                            <p style="padding-left: 30px; text-align: justify;">Has the $2 Dinner Challenge changed your perspective on what it might be like to live in extreme poverty?</p>
+                            <p style="text-align: justify;">After dinner, spend some time praying for the children families living in poverty around the world. And consider including this prayer as part of your prayer at subsequent meals.</p>
+                            <p style="text-align: justify;"> <button type="button" class="btn btn-warning btn-lg"><i>Donate here</i></button></p>
+
+                            <div class="divider project-details"></div>
                         </div>
                     </article>
-                    <br>
 
-                    <!-- <section class="projects-details-navigation clearfix">
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <br>
+
+    <!-- <section class="projects-details-navigation clearfix">
                         <span class="prev_pag"><a href="https://www.iwcwtministry.org/all-project-list/self-help-group/" rel="prev" hidefocus="true" style="outline: none;"><i class="icon-chevron-left"></i><span>Previous Project</span></a></span>
                         <span class="next_pag"><a href="https://www.iwcwtministry.org/all-project-list/train-women-to-earn-live-end-poverty/" rel="next" hidefocus="true" style="outline: none;"><span>Next Project</span><i class="icon-chevron-right"></i></a></span>
                     </section> -->
 
-                </div>
-            </div>
-            <!-- <div class="col-md-4 col-sm-12 sidebar widget-area">
+    </div>
+    </div>
+    <!-- <div class="col-md-4 col-sm-12 sidebar widget-area">
                 <div class="inner">
                     <div class="widget widget-text ">
                         <h3 class="widget-title">Facebook Updates</h3>
@@ -139,7 +140,7 @@
                     </div>
                 </div>
             </div> -->
-        </div>
+    </div>
     </div>
 
 

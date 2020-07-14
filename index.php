@@ -5,14 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles/style.css">
     <title>Document</title>
-    <style>
-        #currentHeading {
-            margin-top: 15px !important;
-        }
 
-  
-    </style>
 </head>
 
 <body>
@@ -142,6 +137,8 @@
         <div class="row">
             <div id="currentHeading" class="col-md-12">
                 <h4>CURRENT PROJECTS</h4>
+                <p><a class="view-all" href="#">View all +</a>
+                </p>
             </div>
             <div class="row my-4">
                 <div class="col-md-4 my-2">
@@ -152,7 +149,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">CHILD PROTECTION</h5>
                                     <p class="card-text">The Child Protection Programme is a core sector of our work. We utilize a child rights programming framework and keep in mind the cross-cutting themes of child participation, non-discrimination and best interests of children.</p>
-                                    <p class="card-text"><button type="button" class="btn btn-primary">Read More</button>
+                                    <p class="card-text"><a href="./projectList/childProtection.php" class="btn btn-primary">Read More</a>
                                     </p>
                                 </div>
                             </div>
@@ -168,7 +165,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">WOMEN EMPOWERMENT</h5>
                                     <p class="card-text">Women in India consistently lag behind men in terms of access to education, health care, jobs etc. Apart from the economic and social inequality, women are victims of heinous crimes such as dowry deaths, rape, molestation and immoral trafficking.</p>
-                                    <p class="card-text"><button type="button" class="btn btn-primary">Read More</button>
+                                    <p class="card-text"><a href="./projectList/womenEmpowerment.php" class="btn btn-primary">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -186,7 +183,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">TRAIN WOMEN TO EARN & LIVE – END POVERTY.</h5>
                                     <p class="card-text">This project will empower disadvantaged women and girls through imparting skill training, computer training’s, educational scholarships and Self help, which will help to generate an income for their families and give a better chance of survival.</p>
-                                    <p class="card-text"><button type="button" class="btn btn-primary">Read More</button>
+                                    <p class="card-text"><a href="./projectList/train-women-to-earn-live-end-poverty.php" class="btn btn-primary">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -202,7 +199,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">FOOD FOR HUNGRY CHILDREN</h5>
                                     <p class="card-text">One in eight women, men and children go to bed hungry every night and by 2025 nearly a billion young people will face poverty because of the damage done to them now through hunger and malnutrition.</p>
-                                    <p class="card-text"><button type="button" class="btn btn-primary">Read More</button>
+                                    <p class="card-text"><a href="./projectList/food-for-hungry-children.php" class="btn btn-primary">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -213,17 +210,16 @@
 
             </div>
         </div>
-        <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong> EARNED BADGES 2019:<br>
-                </strong></span></h2>
-        <h1  style="text-align: center;margin-top:50px;"><span class="row">
+        <h4 style="text-align: center;"><span><strong> EARNED BADGES 2019:<br>
+                </strong></span></h4>
+        <h2 style="text-align: center;margin-top:40px;"><span class="row">
                 <div class="column">
                     <noscript><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.iwcwtministry.org/wp-content/uploads/2020/01/Badges.png" alt="" style="width:70%"></noscript><img class=" lazyloaded" src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.iwcwtministry.org/wp-content/uploads/2020/01/Badges.png" data-src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.iwcwtministry.org/wp-content/uploads/2020/01/Badges.png" alt="" style="width:70%">
                 </div>
                 <p></p>
-            </span></h1>
+            </span></h2>
 
     </div>
-
 
 
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

@@ -11,9 +11,7 @@
             margin-top: 15px !important;
         }
 
-        .awardimage {
-            margin-top: 20px;
-        }
+  
     </style>
 </head>
 
@@ -217,7 +215,7 @@
         </div>
         <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong> EARNED BADGES 2019:<br>
                 </strong></span></h2>
-        <h1  style="text-align: center;margin-top:20px;"><span class="row">
+        <h1  style="text-align: center;margin-top:50px;"><span class="row">
                 <div class="column">
                     <noscript><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.iwcwtministry.org/wp-content/uploads/2020/01/Badges.png" alt="" style="width:70%"></noscript><img class=" lazyloaded" src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.iwcwtministry.org/wp-content/uploads/2020/01/Badges.png" data-src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.iwcwtministry.org/wp-content/uploads/2020/01/Badges.png" alt="" style="width:70%">
                 </div>

@@ -116,7 +116,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/http://www.iwcwtministry.org/wp-content/uploads/2014/08/slide7.jpg" class="d-block w-100" alt="...">
+                <img src="https://www.iwcwtministry.org/wp-content/uploads/2014/08/slide1-1.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Third slide label</h5>
                     <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>

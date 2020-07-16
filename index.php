@@ -12,67 +12,63 @@
 
 <body>
     <header>
-    <nav class="navbar navbar-expand-md navbar-dark  bg-dark">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#">NGO</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">About</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="projectDropdown" role="button" data-toggle="dropdown" aria-expanded="false">
-                            Projects
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="projectDropdown">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                        </ul>
-                    </li>
+        <nav class="navbar navbar-expand-md navbar-dark  bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#"><img class=" lazyloaded" src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.iwcwtministry.org/wp-content/uploads/2014/08/LOGOiwcwtministryORG.png" data-src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.iwcwtministry.org/wp-content/uploads/2014/08/LOGOiwcwtministryORG.png"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">About</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="projectDropdown" role="button" data-toggle="dropdown" aria-expanded="false">
+                                Projects
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="projectDropdown">
+                                <li><a class="dropdown-item" href="./projectList/childProtection.php">CHILD PROTECTION</a></li>
+                                <li><a class="dropdown-item" href="./projectList/womenEmpowerment.php">WOMEN EMPOWERMENT</a></li>
+                                <li><a class="dropdown-item" href="./projectList/train-women-to-earn-live-end-poverty.php">TRAIN WOMEN TO EARN & LIVE</a></li>
+                                <li><a class="dropdown-item" href="./projectList/food-for-hungry-children.php">FOOD FOR HUNGRY CHILDREN</a></li>
+
+                            </ul>
+                        </li>
 
 
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="involveDropdown" role="button" data-toggle="dropdown" aria-expanded="false">
-                            Get Involved
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="involveDropdown">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                        </ul>
-                    </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="involveDropdown" role="button" data-toggle="dropdown" aria-expanded="false">
+                                Get Involved
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="involveDropdown">
+                                <li><a class="dropdown-item" href="#">Link1</a></li>
+                                <li><a class="dropdown-item" href="#">Link2</a></li>
+
+                            </ul>
+                        </li>
 
 
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Gallery</a>
-                    </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Gallery</a>
+                        </li>
 
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Blog</a>
-                    </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Blog</a>
+                        </li>
 
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Contact us</a>
-                    </li>
-                </ul>
-                <button type="button" id="button" class="btn btn-warning"><span></i>Donate Now</i></span></button>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./contact-us.php">Contact us</a>
+                        </li>
+                    </ul>
+                    <a href="./donate.php" id="button" class="btn btn-warning"><span></i>Donate Now</i></span></a>
 
+                </div>
             </div>
-        </div>
-    </nav>
+        </nav>
     </header>
     <main>
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -88,9 +84,8 @@
 
                     <div class="container">
                         <div class="carousel-caption text-left">
-                            <h1>Example headline.</h1>
-                            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+                            <h1>NON-FORMAL EDUCATION FOR STREET CHILDREN</h1>
+                            <p><a class="btn btn-lg btn-warning" href="#" role="button">Join us</a></p>
                         </div>
                     </div>
                 </div>
@@ -100,9 +95,8 @@
 
                     <div class="container">
                         <div class="carousel-caption">
-                            <h1>Another example headline.</h1>
-                            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                            <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+                            <h1>SELF HELP GROUP</h1>
+                            <p><a class="btn btn-lg btn-warning" href="#" role="button">Join us</a></p>
                         </div>
                     </div>
                 </div>
@@ -112,9 +106,8 @@
 
                     <div class="container">
                         <div class="carousel-caption text-right">
-                            <h1>One more for good measure.</h1>
-                            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                            <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+                            <h1>FOOD FOR HUNGRY CHILDREN</h1>
+                            <p><a class="btn btn-lg btn-warning" href="#" role="button">Join us</a></p>
                         </div>
                     </div>
                 </div>
@@ -132,73 +125,10 @@
 
     </main>
 
-
-
-
-    <!-- <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-            <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-            <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
-            <li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
-
-
-        </ol>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/http://www.iwcwtministry.org/wp-content/uploads/2014/08/slide4.jpg" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                    <h5>First slide label</h5>
-                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/http://www.iwcwtministry.org/wp-content/uploads/2014/08/slide6.jpg" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                    <h5>Second slide label</h5>
-                    <p><button type="button" class="btn btn-outline-info btn-lg">View</button>
-                    </p>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/http://www.iwcwtministry.org/wp-content/uploads/2014/08/slide5.jpg" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                    <h5>Third slide label</h5>
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="https://www.iwcwtministry.org/wp-content/uploads/2014/08/slide1-1.jpg" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                    <h5>Third slide label</h5>
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                </div>
-            </div>
-
-            <div class="carousel-item">
-                <img src="https://www.iwcwtministry.org/wp-content/uploads/2014/08/slide1-1.jpg" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                    <h5>Third slide label</h5>
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                </div>
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div> -->
     <div class="container my-4">
         <div class="row">
             <div id="currentHeading" class="col-md-12">
                 <h4>CURRENT PROJECTS</h4>
-                <p><a class="view-all" href="#">View all +</a>
-                </p>
             </div>
             <div class="row">
                 <div class="col-md-4 my-2">
@@ -278,6 +208,10 @@
                 </div>
                 <p></p>
             </span></h2>
+
+
+
+
 
     </div>
 

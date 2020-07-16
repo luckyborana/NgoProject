@@ -33,12 +33,11 @@
                             Projects
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="projectDropdown">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            <li><a class="dropdown-item" href="./childProtection.php">CHILD PROTECTION</a></li>
+                            <li><a class="dropdown-item" href="./womenEmpowerment.php">WOMEN EMPOWERMENT</a></li>
+                            <li><a class="dropdown-item" href="./train-women-to-earn-live-end-poverty.php">TRAIN WOMEN TO EARN & LIVE</a></li>
+                            <li><a class="dropdown-item" href="./food-for-hungry-children.php">FOOD FOR HUNGRY CHILDREN</a></li>
+
                         </ul>
                     </li>
 
@@ -67,7 +66,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact us</a>
+                        <a class="nav-link" href="../contact-us.php">Contact us</a>
                     </li>
                 </ul>
                 <button type="button" class="btn btn-warning"><i>Donate Now</i></button>

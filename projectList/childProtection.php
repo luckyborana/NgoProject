@@ -33,12 +33,11 @@
                             Projects
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="projectDropdown">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            <li><a class="dropdown-item" href="./childProtection.php">CHILD PROTECTION</a></li>
+                            <li><a class="dropdown-item" href="./womenEmpowerment.php">WOMEN EMPOWERMENT</a></li>
+                            <li><a class="dropdown-item" href="./train-women-to-earn-live-end-poverty.php">TRAIN WOMEN TO EARN & LIVE</a></li>
+                            <li><a class="dropdown-item" href="./food-for-hungry-children.php">FOOD FOR HUNGRY CHILDREN</a></li>
+
                         </ul>
                     </li>
 
@@ -67,7 +66,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact us</a>
+                        <a class="nav-link" href="../contact-us.php">Contact us</a>
                     </li>
                 </ul>
                 <button type="button" class="btn btn-warning"><i>Donate Now</i></button>
@@ -110,7 +109,7 @@
                             <!-- <p><a href="http://www.iwcwtministry.org/make-a-donation/" hidefocus="true" style="outline: none;"><noscript><img class="alignnone size-full wp-image-1837" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_301,h_57/http://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png" alt="" width="301" height="57" srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_301/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png 301w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate-300x57.png 300w" sizes="(max-width: 301px) 100vw, 301px" /></noscript><img class="alignnone size-full wp-image-1837 lazyloaded" src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301,h_57/http://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png" data-src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301,h_57/http://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png" alt="" width="301" height="57" data-srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png 301w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate-300x57.png 300w" data-sizes="(max-width: 301px) 100vw, 301px" sizes="(max-width: 301px) 100vw, 301px" srcset="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_301/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate.png 301w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.iwcwtministry.org/wp-content/uploads/2016/10/Donate-300x57.png 300w"></a></p> -->
                             <button type="button" class="btn btn-warning btn-lg"><i>Donate here</i></button>
                             <!-- <button type="button" class="btn btn-warning btn-lg btn-block"><i>Donate Here</i></button> -->
-                           
+
                             <!-- <div class="divider project-details"></div> -->
                         </div>
                     </article>

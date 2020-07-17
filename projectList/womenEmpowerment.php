@@ -26,7 +26,7 @@
                         <a class="nav-link" href="../index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About</a>
+                        <a class="nav-link" href="../aboutus.php">About</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="projectDropdown" role="button" data-toggle="dropdown" aria-expanded="false">
@@ -69,8 +69,7 @@
                         <a class="nav-link" href="../contact-us.php">Contact us</a>
                     </li>
                 </ul>
-                <button type="button" class="btn btn-warning"><i>Donate Now</i></button>
-
+                <a href="../donate.php" class="btn btn-warning"><i>Donate Now</i></a>
             </div>
         </div>
     </nav>

@@ -5,12 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
-    <title>Contact us</title>
 
+    <title>About us</title>
 </head>
 
 <body>
+
     <header>
+
         <nav class="navbar navbar-expand-md navbar-dark  bg-dark">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#"><img class=" lazyloaded" src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.iwcwtministry.org/wp-content/uploads/2014/08/LOGOiwcwtministryORG.png" data-src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.iwcwtministry.org/wp-content/uploads/2014/08/LOGOiwcwtministryORG.png"></a>
@@ -20,10 +22,10 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
-                            <a class="nav-link " href="./index.php">Home</a>
+                            <a class="nav-link" href="./index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">About</a>
+                            <a class="nav-link active" href="#">About</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="projectDropdown" role="button" data-toggle="dropdown" aria-expanded="false">
@@ -44,12 +46,9 @@
                                 Get Involved
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="involveDropdown">
-                                <li><a class="dropdown-item" href="#">Action</a></li>
-                                <li><a class="dropdown-item" href="#">Another action</a></li>
-                                <li>
-                                    <hr class="dropdown-divider">
-                                </li>
-                                <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                <li><a class="dropdown-item" href="#">Link1</a></li>
+                                <li><a class="dropdown-item" href="#">Link2</a></li>
+
                             </ul>
                         </li>
 
@@ -63,59 +62,48 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link active" href="">Contact us</a>
+                            <a class="nav-link" href="./contact-us.php">Contact us</a>
                         </li>
                     </ul>
-                    <button type="button"  class="btn btn-warning"><span></i>Donate Now</i></span></button>
+                    <button type="button" id="button" class="btn btn-warning"><span></i>Donate Now</i></span></button>
 
                 </div>
             </div>
         </nav>
+
+
     </header>
-    <main style="margin-top:40px;">
+
+
+    <div style="margin-top:40px;" id="main" class="site-main" role="main">
         <div class="container">
-            <h2 style="text-align: center;">Indian Women And Child Welfare Trust</h2>
-            <p style="text-align: center;">540 Group 1 DDA Janta Flats Hastsal Uttam Nagar, New Delhi. Pincode – 110059, India<br><strong>Phone:</strong> +91-011-25353022 || <strong>Email:</strong> ceo@iwcwtministry.org</p>
-        </div>
-        <div class="container" style="margin-top:40px;width:400px;">
-            <form class="form-container" action="./db/db-contact-us.php" method="post">
-                <div class="mb-3">
-                    <label for="name" class="form-label">Name:</label>
-                    <input type="text" id="name" class="form-control" name="name" id="name" placeholder="Enter your name">
-                </div>
-                <div class="mb-3">
-                    <label for="email" class="form-label">Email address</label>
-                    <input type="text" id="email" class="form-control" name="email" id="email" placeholder="Enter your email">
-                </div>
-                <div class="mb-3">
-                    <label for="message" class="form-label">Message</label>
-                    <textarea class="form-control" id="message" name="message" rows="3" placeholder="Enter your message here"></textarea>
-                </div>
-                <div class="mb-3">
-                    <div class="status">
+            <div class="row">
 
+                <div class="col-md-8 col-sm-12 content-area sidebar_right">
+
+                    <div class="inner">
+                        <article>
+                            <header class="entry-header">
+                                <h1 class="entry-title">About Us </h1>
+
+                            </header>
+
+                            <div class="entry-content">
+                                <p style="text-align: justify;">Indian Women and Child Welfare Trust (IWCWT) is a Social, Cultural, Economic, Health, Educational, relief and rural/urban community development organisation registered in New Delhi as a charitable trust in year 2000. We are committed to the Millennium development goals. Our vision is for a just and compassionate Indian society in which all people will have the opportunity to achieve their optimum potential. Its priorities and objectives are to carry out charitable, holistic and sustainable development work among the poor, marginalized, downtrodden, illiterate, vulnerable and the exploited ones, irrespective of their caste, creed, colour, sex or religion. In achieving the same we work in partnership with other national and international NGOs. IWCWT is registered as a Trust, New Delhi, India. All contributions to IWCWT are tax-exempted.</p>
+                                <h2>Vision</h2>
+                                <p>The vision of Indian Women and Child Welfare Trust is to create a just, equal and peaceful society where everybody shares and cares for the poor, &nbsp;unprivileged and exploited people and make the world a better place to live in.</p>
+                                <h2>Mission</h2>
+                                <p style="text-align: justify;">The mission of IWCWT is “TO ENSURE SMILE ON EVERY FACE” : This is best done by establishing a redeemed, regenerated and progressive society, which will be free from exploitation, injustice and disparities – where the overall development and dignity of every person will be secured, where people can live in peace, solidarity, co-operation and brotherhood and where the rights of each one will be protected. All these would be brought about through transformation and sustained development of the Indian society in which they live.</p>
+                            </div>
+                        </article>
                     </div>
-                    <!-- <div class="alert alert-danger" role="alert">
-                        A simple danger alert—check it out!
-                    </div> -->
-                </div>
-                <div class="mb-3">
-                    <button id="button" type="submit" name="submit" class="btn btn-primary">Contact us</button>
                 </div>
 
-            </form>
+            </div>
         </div>
-
-
-
-    </main>
-
-
-
+    </div>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="./js/script.js"></script>
 </body>
 
 </html>
